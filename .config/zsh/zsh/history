@@ -1,0 +1,1041 @@
+ssh -l seeder1 allyourbaserbelongto.us
+xterm
+ssh allyourbaserbelongto.us
+ssh -l seeder1 allyourbaserbelongto.us
+exit
+exit
+xterm
+ssh -l root allyourbaserbelongto.us
+screen -r
+ssh -l seeder1 allyourbaserbelongto.us
+alsamixer
+thunar
+unzip lotus2002-02-09.shnf.zip
+unzip lotus2006-02-17.matrix_vbr_mp3.zip
+ncmpcpp
+mpc update
+ncmpcpp
+startx
+thunar
+alsamixer
+sudo pacman -S a52dev faac faad2 flac jasper lame libdca libdv
+sudo pacman -S a52dec faac faad2 flac jasper lame libdca libdv
+sudo pacman -S x264 xvidcore 
+ncmpcpp
+mpd
+ncmpcpp
+scribbler
+mpdscribble
+cd ~
+ls
+cd Downloads
+ls
+unzip lotus2003-12-31.flac_vbr_mp3.zip 2003-12-31
+unzip x lotus2003-12-31.flac_vbr_mp3.zip 2003-12-31
+unzip x lotus2003-12-31.flac_vbr_mp3.zip
+unzip lotus2003-12-31.flac_vbr_mp3.zip h
+unzip lotus2003-12-31.flac_vbr_mp3.zip 
+thunar
+sudo thunar
+irssi
+ssh -l seeder1 allyourbaserbelongto.us
+exit
+alsamixer
+exit
+alsamixer
+exit
+ncmpcpp
+exit
+nitrogen --restore
+exit
+ls
+cd Downloads
+ls
+unrar exi.rar
+sudo pacman -S unrar
+unrar exi.rar
+unrar x exi.rar
+ls
+nano exi.php
+sudo pacman -S flashplugin
+sudo pacman -S jre
+sudo pacman -S java
+ls
+cd Downloads
+ls
+sh steam_latest.deb
+yaourt -S deb2targz
+deb2targz steam_latest.deb
+makepkg steam_latest.tar.gz
+makepkg -u steam_latest.tar.gz
+tar xvf steam_latest.tar.gz
+cd steam_latest
+ls
+makepkg -h
+makepkg -i steam_latest.tar.gz
+yaourt -S steam
+startx
+thunar
+alsamixer
+ncmpcpp
+mpd
+ncmpcpp
+irssi
+nitrogen --restore
+ncmpcpp
+irssi
+exit
+exit
+exit
+clear
+scrot
+ssh -l seeder1 allyourbaserbelongto.us
+yaourt -s screen
+nano .Xdefaults
+nano .Xprofiles
+nano .Xresources
+xterm
+ssh -l seeder1 allyourbaserbelongto.us
+exit
+exit
+ssh -l seeder1 allyourbaserbelongto.us
+nano ~/.Xresources
+exit
+ssh -l seeder1 allyourbaserbelongto.us
+exit
+xterm
+ssh -l seeder1 allyourbaserbelongto.us
+exit
+exit
+irssi
+alsamixer
+alsamixer
+alsamixer
+exit
+startx
+nitrogen --restore
+exit
+irssi
+mpdscribble
+mpd
+ncmpcpp
+ssh -l seeder1 allyourbaserbelongto.us
+lxappearance
+exit
+newsbeuter
+nano /home/xyn/.newsbeuter/urls
+newsbeuter
+nano /home/xyn/.newsbeuter/urls
+newsbeuter
+nano /home/xyn/.newsbeuter/urls
+newsbeuter
+newsbeuter
+\newsbeuter
+exit
+sudo pacman -S filezilla
+exit
+thunar
+gksu amdcccle
+exit
+exit
+steam
+clear
+exit
+startx
+nitrogen --restore
+exit
+irssi
+sudo pacman -S luakit
+mpd
+mpdscribble
+ncmpcpp
+screen
+ssh -l seeder1 allyourbaserbelongto.us
+alsamixer
+alsamixer
+alsamixer
+exit
+screen -r
+sudo pacman -S networkmanager
+sudo pacman -S iptables networkmanager-openvpn networkmanager-pptp networkmanager-vpnc
+sudo pacman -S nm-applet
+sudo pacman -S gnome-icon-theme
+sudo pacman -S network-manager-applet
+sudo pacman -S gnome-keyring
+sudo pacman -S seahorse
+seahorse
+nano ~/.xinitrc
+sudo pacman -S console-kit
+sudo pacman -S consolekit
+sudo pacman -Ss console-kit
+sudo nano /etc/rc.conf
+sudo nano /etc/rc.conf
+nano /etc/rc.conf
+cd /
+ls
+cd etc
+ls
+nano rc.conf
+nano /etc/hosts
+systemctl stop net-auto-wireless.service
+su
+systemctl stop net-auto-wireless.service
+systemctl stop net-auto-wireless.service
+systemctl disable net-auto-wireless.service
+ip link set down eth0
+ip link set down wlan0
+systemctl enable NetworkManager
+systemctl start NetworkManager
+nano /etc/polkit-1/rules.d/50-org.freedesktop.NetworkManager.rules
+usermod -aG network xyn
+usermod -aG wheel xyn
+startx
+alsamxier
+alsamixer
+t
+exit
+irssi
+cd ~/Downloads
+ls
+unzip TorGuardPRO.zip
+ls
+thunar
+unzip TorGuardPRO.zip
+exit
+exit
+irssi
+nitrogen --restore
+exit
+screen
+exit
+screen -r
+screen-r
+screen -r
+screen -l
+exit
+screen -ls
+screen -893 -S
+screen -X -1
+screen -X kill
+screen -r
+screen
+ssh -l seeder1 allyourbaserbelongto.us
+screen -r
+ncmpcpp
+pkill -9 ncmpcpp
+#
+#1q
+#6
+exit
+startx
+nano ~/.xinitrc
+startx
+startx
+screen
+irssi
+irssi -c irc.malvager.net -h loafmaster
+clear
+nitrogen --restore
+screen -r
+mpd
+mpdscribble
+screen -r
+ncmpcpp
+alsamixer
+alsamixer
+exit
+pkill -9 mpd
+pkill -9 ncmpcpp
+mpd
+startx
+alsamixer
+screen -r
+irssi
+screen
+irssi
+irssi
+mpdscribbler
+mpd
+mpdscribble
+ncmpcpp
+steam
+htop
+top
+sudo pacman -S htop
+htop
+htop
+sh
+htop
+exit
+bash
+htop
+htop
+exit
+top
+tio
+top
+pkill -9 hl_linux
+sudo pacman -Syy
+su
+sudo pacman -S catalyst
+sudo pacman -S catalyst-dkms catalyst-utils
+sudo pacman -S dkms
+systemctl enable dkms.service
+sudo pacman -Syy
+sudo rm /var/lib/pacman/db.lck
+sudo pacman -Syy
+sudo pacman -Syu
+exit
+pacman -Syy
+pacman -Syu
+sudo reboot
+startx
+nano /etc/modprobe.d/modprobe.conf
+cd /usr/share/ati
+ls
+cd /lib/modules
+ls
+ls
+cd 3.6.11-1-ARCH
+ls
+cd ..
+ls
+cd ..
+ls
+su
+systemctl enable dkms.service
+reboot
+startx
+aticonfig --initial --desktop-setup=horizontal --overlay-on=1
+su
+aticonfig --initial --desktop-setup=horizontal --overlay-on=1
+su
+exit
+aticonfig --initial --desktop-setup=horizontal --overlay-on=1
+startx
+exit
+startx
+lsmod | grep fglrx
+glxinfo | grep "direct rendering"
+sudo pacman -S mesa-demos
+glxinfo | grep "direct rendering"
+exit
+pkill -9 hl_linux
+exit
+screen -r
+irssi
+screen
+ssh -l seeder1 allyourbaserebelongto.us
+ssh -l seeder1 allyourbaserbelongto.us
+ssh -l seeder1 allyourbaserbelongto.us
+sudo pacman -S metasploit
+yaourt -S metasploit
+ls
+cd Downloads
+ls
+sh HoNClient-3.0.0.4.sh
+yaourt -S backtrack=pentest-library
+yaourt -S backtrack-pentest-library
+nano ~/.bashrc
+msfconsole
+cd ~/.zsh
+cd ~/zsh
+ls
+cd ~
+ls
+cd .
+ls
+cd .config
+ls
+cd zsh
+ls
+nano 06-prompt.zsh
+cd zsh
+ls
+cd ..
+ls
+nano 01-envars.zsh
+cd zsh
+ls
+cd ..
+ls
+cd zsh-syntax-highlighting
+ls
+cd ..
+ls
+nano 02-functions.zsh
+nano 02-alias.zsh
+msfconsole
+yaourt -R msfconsole
+yaourt -R metasploit
+yaourt -S metasploit-svn
+irssi -c irc.malvager.net
+n
+exit
+ping -c the-box.no-ip.org
+ping -c 3 the-box.no-ip.org
+ping -c 3 thebox.no-ip.org
+78.87.14.173-- thebox.no-ip.org ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2007ms
+ping -c 3 72.234.144.174
+3 packets transmitted, 0 received, 100% packet loss, time 2007ms
+ping -c 3 72.234.144.174
+cd ~/HoN
+ls
+sh hon.sh
+exit
+sudo pacman -S mplayer
+exit
+exit
+exit
+mplayer
+exit
+sudo pacman -S vlc
+sudo pacman -S libbluray
+sudo pacman -S java-environment
+exit
+ncmpcpp
+mpd
+ncpmcpp
+ncmpcpp
+nitrogen --restore
+pkill -9 mpd
+startx
+irssi
+mpd
+ncmpcpp
+exit
+ncmpcpp
+startx
+alsamixer
+ncmpcpp
+nitrogen --restore
+exit
+irssi
+sudo pacman -S vmware
+cd Downloads
+ls
+sh VMware-Player-5.0.1-894247.i386.bundle
+sudo sh VMware-Player-5.0.1-894247.i386.bundle
+t
+exit
+vmplayer
+cd Downloads
+ls
+chmod +x VMware-Player-5.0.1-894247.i386.bundle
+su
+su
+for i in {ins,ls,rm}mod modinfo; do ln -s /usr/bin/$i /sbin/$i; done
+vmplayer
+exit
+vmplayer
+pkill -9 firefox
+screen
+htop
+su
+shutdown
+startx
+nitrogen --restore
+irssi
+screen
+irssi
+/server irc.malvager.net
+irssi
+htop
+yaourt -S hto
+yaourt -S htop
+bash
+htop
+htop
+exit
+htop
+uname -a
+sudo pacman -Syy
+sudo pacman -Syu
+pacman --help
+pacman -Syu --help
+sudo pacman -Syi
+pkill -9 awesome
+top
+startx
+$ cd /tmp
+$ curl -O http://communities.vmware.com/servlet/JiveServlet/download/2103172-94260/vmware9_kernel35_patch.tar.bz2
+$ tar --strip-components=1 -xvf vmware9_kernel35_patch.tar.bz2  # The "--strip-components=1" flag extracts the files only
+# ./patch-modules_3.5.0.sh
+cd /tmp
+curl -0 http://communities.vmware.com/servlet/JiveServlet/download/2103172-94260/vmware9_kernel35_patch.tar.bz2
+tar --strip-components=1 -xvf vmware9_kernel35_patch.tar.bz2
+sudo pacman -S curl
+curl -O http://communities.vmware.com/servlet/JiveServlet/download/2103172-94260/vmware9_kernel35_patch.tar.bz2
+ls
+tar --strip-components=1 -xvf vmware9_kernel35_patch.tar.bz2
+ls
+su
+ls
+./patch-modules_3.5.0.sh 
+exit
+./patch-modules_3.5.0.sh./patch-modules_3.5.0.sh
+sh
+nano /etc/systemd/system/vmware.service
+systemctl enable vmware
+vmware-modconfig --console --install-all
+exit
+exit
+sudo pacman -S ncurses
+htop
+htop --help
+cd /usr/bin
+ls
+htop
+./htop
+sh
+htop
+exig
+exit
+alsamixer
+exit
+alsamixer
+startx
+alsamixer
+alsamixer
+startx
+screen -r
+screen
+irssi
+sudo pacman -S gnome
+gnome-session
+gnome
+gnome3
+shutdown
+su
+reboot
+gnome-session
+nano ~/.xinitrc
+STAR
+startx
+sudo pacman -S xorg-xrandr arandr
+startx
+yaourt -S gnome-tweak-tool
+gnome-tweak-tool
+exit
+yaourt -S gnome-shell-extension-user-theme
+sudo pacman -S gnome-shell-extension-user-theme
+gnome-tweak-tool
+yaourt -S gnome-shell-extension-user-theme-git
+sudo pacman -S automake
+yaourt -S gnome-common-git
+yaourt -S gnome-shell-extension-user-theme-git
+yaourt -S gnome-shell-extension-user-theme-gipkill -9 firiefoxt
+startx
+sudo pacman -R gnome-panel
+sudo pacman -S libgweather2 gnome2-panel-libs gnome2-panel
+sudo pacman -S gnome2-panel-libs gnome2-panel
+sudo pacman -S gnome2-panel
+yaourt -S gnome2-panel
+sudo pacman -S gnome-panel
+;pacman -Ss gnome-shell
+;pacman -Ss gnome-shell-theme
+yaourt -Ss gnome-shell-*
+yaourt -Ss gnome-shell-extension
+pkill -9 vmplayer
+startx
+irssi
+irssi
+irssi -c allyourbaserbelongto.us -p 81
+xrandr -q
+xrandr --output DFP9 --mode 1920x1080 --output HDMI1 --mode 1920x1080 --left-of DFP9
+xrandr -q
+sudo reboot
+xrandr -q
+startx
+xrandr
+lspci -v
+xrandr --output HDMI1 --auto
+xrandr --output HDMI --auto
+xrandr -q
+xrandr --output DFP9
+xrandr --output DVI1 --auto
+sudo pacman -S kde
+sudo pacman -S poppler
+sudo pacman -Syy
+sudo pacman -Syu
+nano ~/.xinitrc
+startx
+nano .xinitrc
+startx
+xrandr -q
+gksu amdcccle
+startx
+alsamixer
+qpaeq
+sudo pacman -S --needed python2-pyqt
+pactl load-module module-equalizer-sink
+qpaeq
+mpd
+mpdscribble
+ncmpcpp
+alsamixer
+su
+nano /etc/modprobe.d/alsa-base.conf
+cd /etc/modprobe.d
+ls
+aplay -l
+exit
+startx
+alsamixer
+exit
+screen
+ssh allyourbaserbelongto.us -l psi
+nano /home/xyn/.ssh/known_hosts
+ls
+ssh allyourbaserbelongto.us -l psi
+mv /home/xyn
+mv /home/xyn/.ssh/known_hosts knownpoop
+touch /home/xyn/.ssh/known_hosts
+ssh allyourbaserbelongto.us -l psi
+irssi
+nitrogen --restore
+gksu amccle
+gksu amcccle
+gksu amdccle
+gksu amdcccle
+exir
+exit
+nitrogen --restore
+nitrogen
+nitrogen --restore
+nitrogen
+exit
+te
+exit
+ncmpcpp
+ssh -l root allyourbaserbelongto.us
+ls
+cd D
+cd Desktop
+ls
+unzip 1998.04.18\ Georgia\ Theatre,\ Athens,GA 1998-04-18/
+ls
+unzip hekp
+unzip help
+apt-get install unzip
+unzip --help
+ls
+ls
+cd Downloads
+ls
+unzip -d 1999-04-06 sts9-1999-04-06.shnf.zip
+ls
+unzip -d 1999-08-20 sts9-1999-08-20.shnf_vbr_mp3.zip
+unzip -d 2000-07-27 sts9-2000-07-27.shnf_vbr_mp3.zip
+ls
+unzip -d 2006-09-09 STS9_2006-09-09_RedRocks_FOBmk41v_vbr_mp3.zip
+ls
+rm sts9-1999-04-06.shnf.zip
+ls
+rm sts9-1999-08-20.shnf_vbr_mp3.zip
+rm sts9-2000-07-27.shnf_vbr_mp3.zip
+rm STS9_2006-09-09_RedRocks_FOBmk41v_vbr_mp3.zip
+ls
+thunar
+ssh -l seeder1 allyourbaserbelongto.us
+ncmpcpp
+pkill -9 mpd
+mpd
+startx
+ncmpcpp
+startx
+gksu amdcccle
+exit
+mpd
+mpdscribble
+ncmpcpp
+alsamixer
+exit
+irssi
+nitrogen --restore
+exit
+irssi -c irc.malvager.net
+sudo pacman -S pavucontrol
+pavucontrol
+pavucontrol
+clear
+exit
+scrot -d 5 
+nitrogen
+nitrogen
+nitrogen
+nitrogen
+exit
+nitrogen --restore
+exit
+pavucontrol
+exit
+ls
+cd D
+cd Downloads
+ls
+tar zxvf kanbe.tar.gz
+ls
+cd kanbe
+ls
+tar xvf allkind.tar.gz
+ls
+cd allkind
+ls
+cd allkind
+ls
+cd help
+ls
+cd %APPDATA%
+ls
+cd Microsoft
+ls
+cd Windows
+ls
+cd IETldCache
+ls
+cd index.dat
+nano index.dat
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd linux
+ls
+cd mech.levels
+nano linux
+nano mech.set
+nano mech.levels
+ls
+nano mech.levels
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd allkind
+ls
+cd allkind
+ls
+cd help
+ls
+cd randfiles
+ls
+cd ..
+ls
+cd au
+cd auto
+ls
+cd auto
+cd randfiles
+ls
+nano randaway.e
+nano randnicks.e
+nano randsay.e
+nano randversions.e
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+tar xvf emech2.8.tar.gz
+ls
+cd emech-2.8
+ls
+nano sample.set
+nano VERSIONS
+ls
+./configure
+ls
+nano sample.set
+nano sample.set
+ping -c allyourbaserbelongto.us
+ping -c 3 allyourbaserbelongto.us
+ls
+./genuser emech.users
+nano sample.set
+ls
+cd randfiles
+ls
+cd ..
+ls
+cd src
+ls
+nano commands.c
+ls
+nano channel.c
+nano config.h
+cd ..
+ls
+cd ..
+ls
+tar -cvf h.tar emech-2.8
+ls
+ssh -l root allyourbaserbelongto.us
+vim
+ls
+cd code
+ls
+cd c
+ls
+vim beta.c
+vim beta.c
+nano beta.c
+nano beta.c
+nano beta.c
+nano beta.c
+gedit beta.c
+ls
+gcc beta.c -o h
+ls
+./h
+./h allyourbaserbelongto.us 81 #test Aura h
+./h allyourbaserbelongto.us 81 test Aura h
+irssi
+./h allyourbaserbelongto.us 81 test h
+./h allyourbaserbelongto.us 81 test loafman loafmaster
+./h irc.malvager.net 6667 pokemon loafman loafmaster
+ls
+gedit beta.c
+ls
+gcc beta.c -o beta
+gcc beta.c
+ls
+gedit beta.c
+ls
+gcc beta.c
+gcc -o bot beta.c
+ls
+sudo pacman -S libc
+ls
+gcc -lc beta.c
+nano beta.c
+gcc -lc beta.c
+ls
+nano beta.c
+gcc beta.c
+ls
+gcc beta.c -o beta
+ls
+nano beta.c
+./beta
+irssi -c irc.malvager.net
+ls
+nano beta.c
+gcc beta.c -o beta
+ls
+./beta
+pkill -9 beta
+ls
+./beta
+pkill -9 beta
+ls
+vim beta.c
+ls
+pkill -9 beta
+gcc beta.c -o beta
+gedit beta.c
+gcc beta.c -o beta
+gedit beta.c
+gcc beta.c -o beta
+ls
+./beta
+pkill -9 beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+gcc beta.c -o beta
+ls
+./beta
+pkill -9 beta
+ls
+gcc beta.c -o beta
+gcc beta.c -o beta
+./beta
+pkill -9 beta
+gcc beta.c
+gcc beta.c
+gcc beta.c -o beta
+./beta
+pkill -9 beta
+ls
+rm alpha.c
+rm a.out
+rm beta
+ls
+gcc -o beta beta.c
+ls
+./h irc.malvager.net 6667 pokemon loafman loafmaster
+gcc -o beta beta.c
+./beta
+pkill -9 beta
+gcc beta.c
+gcc beta.c
+./beta
+pkill -9 beta
+ls
+gcc beta.c
+./beta
+pkill -9 beta
+ls
+gcc beta.c
+gcc beta.c
+./beta
+pkill -9 beta
+ls
+gcc alpha.c
+gcc alpha.c
+gcc alpha.c
+gcc alpha.c
+gcc alpha.c
+gcc alpha.c
+ls
+gcc alpha.c
+gcc alpha.c
+ls
+gcc -o test alpha.c
+ls
+./test
+ls
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+nano pokemon.txt
+nano pokemon.txt
+nano pokemon.txt
+ls
+cp ~/Downloads/pokemon.txt ~/code/c
+ls
+gcc -o test alpha.c
+gcc -o test alpha.c
+./test
+pkill -9 test
+pkill -9 niggers
+gcc -o test alpha.c
+./test
+cd ~/code/c
+ls
+nano help.c
+ls
+gcc -o help help.c
+ls
+./hel
+./help
+./help
+nano help.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o help help.c
+gcc -o help help.c
+gcc -o help help.c
+gcc -o help help.c
+gcc -o help help.c
+./help
+./help
+gcc -o help help.c
+./help
+gcc -o help help.c
+gcc -o help help.c
+gcc -o help help.c
+gcc -o help help.c
+./help
+gcc -o help help.c
+./help
+gcc -o help help.c
+gcc -o help help.c
+./help
+gcc -o help help.c
+./help
+gcc -o help help.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+./test
+./test
+pkill -9 test
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+gcc -o test alpha.c
+nano alpha.c
+ncmpcpp
+pavucontrol
+mpd
+pkill -9 pavucontrol
+pkill -9 mpd
+pkill -9 ncmpcpp
+#
+#2+
+#2+
+exit
+mpd
+startx
+pkill -9 startx
+pkill -9 x
+pkill -9 startx
+pkill -9 x
+pkill -9 awesome
+pkill -9 x
+startx
+startx
+mpd
+mpdscribble
+ncmpcpp
+pkill -9 mpd
+mpd
+pkill -9 mpd
+mpd
+mpd
+ncmpcpp
+pkill -9 mpd
+nano ~/.mpd.conf
+nano ~/.config/pulse/default.pa
+pulseaudio --kill
+pulseaudio --start
+startx
+startx
+irssi
+cd ~
+ls
+cd .config
+ls
+cd ..
+ls
+cd .config
+git add
+ cd ..
+ls
+git add .config/
+git
+git https://github.com/insectdigestionmelancholy/homefiles.git
+git clone https://github.com/insectdigestionmelancholy/homefiles.git
+ls
+git add .config. https://github.com/insectdigestionmelancholy/homefiles.git
+cd homefiles
+ls
+git add /home/xyn/.config/
+cp -r /home/xyn/.config/ ~/homefiles

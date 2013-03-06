@@ -1,0 +1,39 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="DFP1">
+      </output>
+      <output name="DFP2">
+      </output>
+      <output name="DFP3">
+      </output>
+      <output name="DFP4">
+      </output>
+      <output name="DFP5">
+      </output>
+      <output name="DFP6">
+      </output>
+      <output name="DFP7">
+      </output>
+      <output name="DFP8">
+      </output>
+      <output name="DFP9">
+          <vendor>SAM</vendor>
+          <product>0x0657</product>
+          <serial>0x59443233</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DFP10">
+      </output>
+      <output name="CRT1">
+      </output>
+  </configuration>
+</monitors>

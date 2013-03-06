@@ -1,0 +1,6 @@
+### Network access (may be configured with paprefs, so leave this 
+commented
+### here if you plan to use paprefs)
+#load-module module-esound-protocol-tcp
+load-module module-native-protocol-tcp auth-ip-acl=127.0.0.1
+
